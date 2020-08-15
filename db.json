@@ -2,87 +2,24 @@
   "logs": [
     {
       "id": 1,
-      "message": "Make pull request to production",
+      "message": "erkin",
       "attention": false,
-      "date": "02-02-2020",
-      "tech": "Erkinbek Abdurakhman"
+      "tech": "Sam Smith",
+      "date": "2020-08-15T14:25:27.864Z"
     },
     {
-      "id": 2,
-      "message": "Fix Error in Search Bar",
+      "message": "Fix Error in Backend",
       "attention": true,
-      "date": "02-02-2020",
-      "tech": "Daniil Orlov"
+      "tech": "Sara Whilson",
+      "date": "2020-08-15T14:45:37.622Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Finish unit test in Development",
+      "message": "Push production version",
       "attention": false,
-      "date": "02-02-2020",
-      "tech": "Ruslan Satybaev"
-    },
-    {
-      "id": 4,
-      "message": "Make pull request to production",
-      "attention": false,
-      "date": "02-02-2020",
-      "tech": "Erkinbek Abdurakhman"
-    },
-    {
-      "id": 5,
-      "message": "Fix Error in Search Bar",
-      "attention": true,
-      "date": "02-02-2020",
-      "tech": "Daniil Orlov"
-    },
-    {
-      "id": 6,
-      "message": "Finish unit test in Development",
-      "attention": false,
-      "date": "02-02-2020",
-      "tech": "Ruslan Satybaev"
-    },
-    {
-      "id": 7,
-      "message": "Make pull request to production",
-      "attention": false,
-      "date": "02-02-2020",
-      "tech": "Erkinbek Abdurakhman"
-    },
-    {
-      "id": 8,
-      "message": "Fix Error in Search Bar",
-      "attention": true,
-      "date": "02-02-2020",
-      "tech": "Daniil Orlov"
-    },
-    {
-      "id": 9,
-      "message": "Finish unit test in Development",
-      "attention": false,
-      "date": "02-02-2020",
-      "tech": "Ruslan Satybaev"
-    },
-    {
-      "id": 10,
-      "message": "Make pull request to production",
-      "attention": false,
-      "date": "02-02-2020",
-      "tech": "Erkinbek Abdurakhman"
-    },
-    {
-      "id": 11,
-      "message": "Fix Error in Search Bar",
-      "attention": true,
-      "date": "02-02-2020",
-      "tech": "Daniil Orlov"
-    },
-    {
-      "id": 12,
-      "message": "Finish unit test in Development",
-      "attention": false,
-      "date": "02-02-2020",
-      "tech": "Ruslan Satybaev"
+      "tech": "John Doe",
+      "date": "2020-08-15T14:45:57.628Z",
+      "id": 3
     }
   ],
   "techs": [
