@@ -8,11 +8,11 @@
       "date": "2020-08-15T14:25:27.864Z"
     },
     {
+      "id": 2,
       "message": "Fix Error in Backend",
       "attention": true,
-      "tech": "Sara Whilson",
-      "date": "2020-08-15T14:45:37.622Z",
-      "id": 2
+      "tech": "Daniil Orlov",
+      "date": "2020-08-16T06:16:44.275Z"
     },
     {
       "message": "Push production version",
@@ -34,9 +34,9 @@
       "lastName": "Orlov"
     },
     {
-      "id": 3,
-      "firstName": "Ruslan",
-      "lastName": "Satybaev"
+      "firstName": "Aidana",
+      "lastName": "Jumasheva",
+      "id": 5
     }
   ]
 }

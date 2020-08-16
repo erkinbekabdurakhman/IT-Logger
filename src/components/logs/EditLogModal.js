@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { connect } from 'react-redux';
+import TechSelectOption from '../techs/TechSelectOption';
 import PropTypes from 'prop-types';
 import M from 'materialize-css/dist/js/materialize.min.js';
 import {updateLog} from '../../actions/logAction';
@@ -15,7 +16,7 @@ const EditLogModal = ({ current, updateLog }) => {
             setAttention(current.attention);
             setTech(current.tech);
         }
-    }, []);
+    }, [current]);
 
     const onSubmit = (e) => {
         e.preventDefault();
@@ -55,9 +56,7 @@ const EditLogModal = ({ current, updateLog }) => {
                     <select name="tech" value={tech} className="browser-default"
                     onChange={e => setTech(e.target.value)}>
                         <option value="" disabled>Select Technician</option>
-                        <option value="John Doe">John Doe</option>
-                        <option value="Sam Smith">Sam Smith</option>
-                        <option value="Sara Whilson">Sara Whilson</option>
+                        <TechSelectOption />
                     </select>
                 </div>
                 <div className="row">
